@@ -4,6 +4,6 @@ Hello Coders!!! This is the third miniproject which we seen on 30th Day from 30 
 
 ## Project
 
-![](output.png)
+![](output.jpeg)
 
 ## Just follow☝️ me and Star⭐ my repository 
